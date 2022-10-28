@@ -2,7 +2,9 @@
 
 ## On this page! I keep all of the docs and dataset for my Data Analysis Projects
 - 🌱 I’m currently learning all about Data analysis and on the journey to become a Data Analyst Professional.
-< a href ="">
+
+
+< a href ="https://www.linkedin.com/in/jaiswalshreyash1/">
 <img align ="left" alt="Shreyash | linkedin" width ="22px"
      src="https://user-images.githubusercontent.com/45238578/198650137-35f69f82-ed13-46fd-8d6d-c9b258d0d9bd.png"/>
      </a>

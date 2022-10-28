@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi Everyone! Welcome to Shreyash Jaiswal's GitHub Profile
+
+## On this page! I keep all of the docs and dataset for my projects
+- 🌱 I’m currently learning all about Data analysis and in the journey to become a Data Analyst Professional.
+
 
 <!--
 **jaiswalshreyash1/jaiswalshreyash1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

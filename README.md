@@ -10,11 +10,15 @@
      </a>
      
 <a href ="https://twitter.com/Shreyash_j7">
-<img align ="centre" alt="Twitter" width ="100px" ,height="22px"
+<img align ="left" alt="Twitter" width ="100px" ,height="22px"
      src="twitter.png">
      </a>
 
-
+     
+<a href ="https://www.kaggle.com/shreyashjaiswalshrey">
+<img align ="left" alt="Kaggle" width ="100px" ,height="22px"
+     src="">
+     </a>
 <!--
 **jaiswalshreyash1/jaiswalshreyash1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

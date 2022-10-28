@@ -5,7 +5,7 @@
 
 
 <a href ="https://www.linkedin.com/in/jaiswalshreyash1/">
-<img align ="left" alt="Shreyash | linkedin" width ="50px"
+<img align ="left" alt="Linkedin" width ="100px" ,height="22px"
      src="https://user-images.githubusercontent.com/45238578/198652130-112fc334-e63e-4f8c-aec3-117f11e951c0.png/">
      </a>
 

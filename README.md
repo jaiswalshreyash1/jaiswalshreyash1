@@ -2,7 +2,10 @@
 
 ## On this page! I keep all of the docs and dataset for my Data Analysis Projects
 - 🌱 I’m currently learning all about Data analysis and on the journey to become a Data Analyst Professional.
-
+< a href ="">
+<img align ="left" alt="Shreyash | linkedin" width ="22px"
+     src="https://user-images.githubusercontent.com/45238578/198650137-35f69f82-ed13-46fd-8d6d-c9b258d0d9bd.png"/>
+     </a>
 
 <!--
 **jaiswalshreyash1/jaiswalshreyash1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

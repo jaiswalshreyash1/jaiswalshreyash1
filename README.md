@@ -5,13 +5,13 @@
 
 
 <a href ="https://www.linkedin.com/in/jaiswalshreyash1/">
-<img align ="left" alt="Linkedin" width ="100px" ,height="22px"
+<img align ="left" alt="Linkedin" width ="125px" ,height="22px"
      src="linkedin official logo.png">
      </a>
      
 <a href ="https://twitter.com/Shreyash_j7">
-<img align ="left" alt="Twitter" width ="100px" ,height="22px"
-     src="twitter3.jpg">
+<img align ="left" alt="Twitter" width ="40px" ,height="22px"
+     src="twitter3.png">
      </a>
 
      

@@ -4,9 +4,9 @@
 - 🌱 I’m currently learning all about Data analysis and on the journey to become a Data Analyst Professional.
 
 
-< a href ="https://www.linkedin.com/in/jaiswalshreyash1/">
+<a href ="https://www.linkedin.com/in/jaiswalshreyash1/">
 <img align ="left" alt="Shreyash | linkedin" width ="22px"
-     src="https://user-images.githubusercontent.com/45238578/198650137-35f69f82-ed13-46fd-8d6d-c9b258d0d9bd.png"/>
+     src="![download](https://user-images.githubusercontent.com/45238578/198652130-112fc334-e63e-4f8c-aec3-117f11e951c0.png)"/>
      </a>
 
 <!--

@@ -1,7 +1,7 @@
 # Hi Everyone! Welcome to Shreyash Jaiswal's GitHub Profile
 
 ## On this page! I keep all of the docs and dataset for my Data Analysis Projects
-- 🌱 I’m currently learning all about Data analysis and in the journey to become a Data Analyst Professional.
+- 🌱 I’m currently learning all about Data analysis and on the journey to become a Data Analyst Professional.
 
 
 <!--

@@ -11,7 +11,7 @@
      
 <a href ="https://twitter.com/Shreyash_j7">
 <img align ="left" alt="Twitter" width ="100px" ,height="22px"
-     src="twitter.png">
+     src="twitter2.jpg">
      </a>
 
      

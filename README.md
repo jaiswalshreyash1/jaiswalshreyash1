@@ -6,8 +6,14 @@
 
 <a href ="https://www.linkedin.com/in/jaiswalshreyash1/">
 <img align ="left" alt="Linkedin" width ="100px" ,height="22px"
-     src="https://user-images.githubusercontent.com/45238578/198652130-112fc334-e63e-4f8c-aec3-117f11e951c0.png/">
+     src="linkedin official logo.png">
      </a>
+     
+<a href ="https://www.linkedin.com/in/jaiswalshreyash1/">
+<img align ="left" alt="Twitter" width ="100px" ,height="22px"
+     src="">
+     </a>
+
 
 <!--
 **jaiswalshreyash1/jaiswalshreyash1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

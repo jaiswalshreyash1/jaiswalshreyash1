@@ -20,6 +20,11 @@
 <a href ="https://www.linkedin.com/in/jaiswalshreyash1/">
 <img align ="left" alt="Linkedin" width ="125px" ,height="22px"
      src="linkedin official logo.png">
+     </a>     
+     
+<a href ="https://public.tableau.com/app/profile/shreyash.jaiswal5812">
+<img align ="left" alt="Linkedin" width ="125px" ,height="22px"
+     src="">
      </a>
      
 <a href ="https://twitter.com/Shreyash_j7">

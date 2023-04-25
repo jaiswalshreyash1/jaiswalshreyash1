@@ -24,7 +24,7 @@
      
 <a href ="https://public.tableau.com/app/profile/shreyash.jaiswal5812">
 <img align ="left" alt="Linkedin" width ="125px" ,height="22px"
-     src="">
+     src="tablea_logo_1662021296.webp">
      </a>
      
 <a href ="https://twitter.com/Shreyash_j7">

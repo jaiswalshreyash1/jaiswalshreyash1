@@ -2,7 +2,20 @@
 
 ## On this page! I keep all of the docs and dataset for my Data Analysis Projects
 - 🌱 I’m currently learning all about Data analysis and on the journey to become a Data Analyst Professional.
+-  Google Certified Data Analyst.
+-🎯 Passionate about converting data into insights and building frameworks for decision-making.
+-🔭 I’m currently working on SQL, Python, Power BI, and ETL Tools.
+-👯 I’m looking to collaborate on Datasets for Analysis and Visualization projects.
+-🌱 I’m currently learning Machine Learning and Python.
 
+
+## Skills
+-Data analysis
+-SQL
+-Python
+-Power BI
+-Excel and Google Sheets
+-Tableau
 
 <a href ="https://www.linkedin.com/in/jaiswalshreyash1/">
 <img align ="left" alt="Linkedin" width ="125px" ,height="22px"
